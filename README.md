@@ -60,8 +60,10 @@
 
 ## 🚀 Currently Exploring
 
-- 🛡️ Mendalami **Next.js** untuk aplikasi fullstack
-- 🎨 Belajar membuat UI yang lebih interaktif dengan **Tailwind CSS**
-- 🐍 Mengembangkan script otomatisasi dengan **Python**
+
+- 🛡️ Dive into **Next.js** for full-stack applications
+- 🎨 Learn to create more interactive UIs with **Tailwind CSS**
+- 🐍 Develop automation scripts with **Python**
+
 ## 🏆 GitHub Stats
 
